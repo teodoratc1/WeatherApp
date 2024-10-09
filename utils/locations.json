@@ -1,0 +1,73 @@
+[
+    {
+      "city": "Bucuresti",
+      "latitude": 44.4268,
+      "longitude": 26.1025
+    },
+    {
+      "city": "Cluj-Napoca",
+      "latitude": 46.7712,
+      "longitude": 23.6236
+    },
+    {
+      "city": "Timișoara",
+      "latitude": 45.7489,
+      "longitude": 21.2087
+    },
+    {
+      "city": "Iași",
+      "latitude": 47.1585,
+      "longitude": 27.6014
+    },
+    {
+      "city": "Constanța",
+      "latitude": 44.1598,
+      "longitude": 28.6348
+    },
+    {
+      "city": "Craiova",
+      "latitude": 44.3302,
+      "longitude": 23.7949
+    },
+    {
+      "city": "Brașov",
+      "latitude": 45.6579,
+      "longitude": 25.6012
+    },
+    {
+      "city": "Galați",
+      "latitude": 45.4369,
+      "longitude": 28.0389
+    },
+    {
+      "city": "Ploiești",
+      "latitude": 44.9443,
+      "longitude": 26.0292
+    },
+    {
+      "city": "Oradea",
+      "latitude": 47.0722,
+      "longitude": 21.9217
+    },
+    {
+      "city": "Brăila",
+      "latitude": 45.2692,
+      "longitude": 27.9575
+    },
+    {
+      "city": "Arad",
+      "latitude": 46.1866,
+      "longitude": 21.3123
+    },
+    {
+      "city": "Sibiu",
+      "latitude": 45.7983,
+      "longitude": 24.1256
+    },
+    {
+      "city": "Bacău",
+      "latitude": 46.5671,
+      "longitude": 26.9159
+    }
+  ]
+  
